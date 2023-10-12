@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 将代码推送到GitHub仓库
 
 - 打开命令行终端(如Windows的命令提示符或Mac的终端)。
@@ -27,7 +26,3 @@
   ```
   git push -u origin master
   ```
-=======
-# test-master
-The is test repository
->>>>>>> 9118ef20477bd8771dc424c0ac5d305bb0b67ee8
